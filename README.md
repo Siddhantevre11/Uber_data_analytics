@@ -16,9 +16,6 @@ Google Cloud Platform
 3. BigQuery
 4. Looker Studio
 
-Modern Data Pipeine Tool - https://www.mage.ai/
-
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 
 ## Dataset Used
